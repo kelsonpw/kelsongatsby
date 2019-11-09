@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "Github",
+    "link": "https://github.com/kelsonpw",
+    "icon": "assets/icons/github.svg"
+  },
+  {
+    "id": 1,
+    "name": "Twitter",
+    "link": "https://twitter.com/kelsonpw",
+    "icon": "assets/icons/twitter.svg"
+  }
+]
